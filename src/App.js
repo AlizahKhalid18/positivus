@@ -453,6 +453,7 @@ const App = () => {
           <i className="fab fa-linkedin" style={{color:"white", backgroundColor:"white" }}></i>
           <i className="fab fa-twitter"></i>
           <i className="fab fa-facebook"></i>
+      
         </div>
       </div>
 
@@ -467,12 +468,12 @@ const App = () => {
 
     
         <div className="subscribe-section">
-          <button className="email-btn">Email Us</button>
+        <input className="email-btn" type="text" placeholder="Email Us" />
           <button className="subscribe-btn">Subscribe to News</button>
         </div>
       </div>
 
-      
+     
       <div className="footer">
         
         <div className="footer-info">
