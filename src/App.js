@@ -450,7 +450,7 @@ const App = () => {
           <a href="#">Blog</a>
         </div>
         <div className="social-icons">
-          <i className="fab fa-linkedin"></i>
+          <i className="fab fa-linkedin" style={{color:"white", backgroundColor:"white" }}></i>
           <i className="fab fa-twitter"></i>
           <i className="fab fa-facebook"></i>
         </div>
