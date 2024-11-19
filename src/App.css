@@ -107,6 +107,9 @@ body {
     font-size: 0.9rem;
     padding: 8px 10px;
   }
+  .navbar{
+    position: none;
+  }
 
   .hamburger {
     display: flex;
@@ -768,7 +771,9 @@ body {
     margin-left: 0;
     text-align: center;
   }
-
+  .testimonial-slider-container{
+    padding: 40px;
+  }
   .testimonial-text {
     font-size: 1rem;
   }
